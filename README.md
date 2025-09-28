@@ -1,7 +1,7 @@
 # Python_Bank-segmentation
 
 
-In this project, I set out to explore customer data and uncover hidden patterns using clustering techniques. By applying Principal Component Analysis (PCA) and K-Means, I was able to reduce the complexity of the dataset and group customers into meaningful segments.
+In this project, I set out to explore bank customer data from [Kaggle](https://www.kaggle.com/datasets/marusagar/bank-customer-attrition-insights) and uncover hidden patterns using clustering techniques. By applying Principal Component Analysis (PCA) and K-Means, I was able to reduce the complexity of the dataset and group customers into meaningful segments.
 
 ## The Process
 1. Importing the Data
