@@ -1,7 +1,7 @@
 # Python_Bank-segmentation
 
 
-In this project, I set out to explore bank customer data from [Kaggle](https://www.kaggle.com/datasets/marusagar/bank-customer-attrition-insights) and uncover hidden patterns using clustering techniques. By applying Principal Component Analysis (PCA) and K-Means, I was able to reduce the complexity of the [dataset](https://github.com/ksmilda/Python_Bank-segmentation/blob/main/Bank-Customer-Attrition-Insights-Data.xlsx) and group customers into meaningful segments. Take a look at the documentation on Jupyter notebook [here](https://github.com/ksmilda/Python_Bank-segmentation/blob/main/kmeans-bank.ipynb). Click this link to straight to the result of segmentation. [a](docs/kmeans-bank.ipynb)
+In this project, I set out to explore bank customer data from [Kaggle](https://www.kaggle.com/datasets/marusagar/bank-customer-attrition-insights) and uncover hidden patterns using clustering techniques. By applying Principal Component Analysis (PCA) and K-Means, I was able to reduce the complexity of the [dataset](https://github.com/ksmilda/Python_Bank-segmentation/blob/main/Bank-Customer-Attrition-Insights-Data.xlsx) and group customers into meaningful segments. Take a look at the documentation on Jupyter notebook [here](https://github.com/ksmilda/Python_Bank-segmentation/blob/main/kmeans-bank.ipynb). Click this link to straight to the result of segmentation. [a](/kmeans-bank.ipynb)
 
 ## The Process
 1. Import the Data
