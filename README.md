@@ -95,5 +95,11 @@ The second cluster (cyan), around negative values of Principal Component 1 (bala
 [10000 rows x 2 columns]
 ```
 
+## Conclusion
+This project successfully segmented bank customers into two main groups using PCA and K-Means clustering based on their Credit Score, Balance, and Age. By applying PCA, data complexity was reduced while maintaining 67.67% of the variance, allowing clear visualization and interpretation of customer patterns. The optimal number of clusters (k=2) was determined using the silhouette score (~0.8), ensuring strong separation between groups.
 
-Conclusion: This clustering is segment customers by life stage & financial capacity. The result of this clustering can be use to design different marketing, product offerings, and retention strategies for each.
+* Cluster 1 – “Wealthy Seniors”: Older customers with higher balances and stable financial profiles. They represent high-value, loyal clients who may prefer traditional banking but respond to premium or loyalty-based services.
+
+* Cluster 2 – “Emerging Young Customers”: Younger customers with lower balances but high growth potential. They are more receptive to digital banking, cross-selling, and new financial products.
+
+Overall, this segmentation provides actionable insights for targeted marketing, product design, and retention strategies, allowing banks to tailor approaches based on customer life stage and financial capacity.
